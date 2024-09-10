@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>latihan kedua</title>
+</head>
+
+<body>
+<h1>judul kesatu</h1
+<h2>judul kedua</h2>
+<h3>heading tiga</h3>
+<h4>empat</h4>
+<h5>lima</h5>
+<h6>enam</h6>
+</body>
+<p>inih adalah contoh paragraf pertama mengunakan HTML. yang isinya merupakan teks tidak bermakna tapi cukup menggambarkan mengunakan tag p dalam HTML. Huruf <b>tebal</b>mengunakan tag b. Huruf <i>miring</i>mengunakan tag i.</p>
+</html>
+<h1>membuat pangkat di HTML</h1>
+<p>Rumus luas persegi adalah S², dimana S adalah sisi daris pesegi. lalu O² adalah rumus dari kimia dari oksigen. </p>
+<h1>membuat marker teks di HTML</h1>
+<p>marker biasanya di gunakan untuk menandai bagian
+teks yang penting. kalau di dunia nyata kita,<mark>menggunakan stabilo</mark>
+<h1>text formatting untuk teks dari komputer</h1>
+<p>perintahjavascript untuk menampilkan teks je console adalah
+<code>console.log()</code>
+kita juga bisa menampilkan isi variabel dengan fungsi ini misalkan kita punya variabel name, maka kode programnya bisa ditulis seperti ini:</p>
+
+<pre> 
+ var  = "petani kode";
+ console.log (name) ;</pre>
+  
+  maka hasi outputnya: <samp>
+   petani kode 
+  </samp>
+  <p>
+  </p>
+untuk menjalankan ulang program . lakukan refresh progam menekan tombol 
+<kbdh>F5</kbdh>
+<p>
+</p>
